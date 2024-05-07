@@ -1,2 +1,2 @@
-By using this To-Do List program, you can add your tasks, remove them if you want to..., if your tasks are completed, you can mark them as completed, you can see your tasks and also, 
-you can see your completed tasks!
+By using this To-Do List program, you can add your tasks, remove them if you want to..., if your tasks are completed, you can mark them as completed, you can see your tasks and also, you can see your completed tasks!
+Conclusion: Mainly, this project gives you the idea about STRINGS(Eg:- handling multi-dimensional strings, arrays, etc.), FUNCTIONS(when to declare and when to call them), IF-ELSE STATEMENTS, LOOPS(Eg:- for loops, while loops, etc.) & SWITCH CASE CONTROL.....
